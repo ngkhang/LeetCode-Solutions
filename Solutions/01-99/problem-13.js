@@ -44,8 +44,33 @@ Problem 13. Roman to Integer
 */
 
 /**
- * @param {number} n - a positive integer
+ * @param {string} s
  * @return {number}
  */
 
-//code here
+var romanToInt = function (s) {
+  const lstSymbol = {
+    IV: 4,
+    IX: 9,
+    XL: 40,
+    XC: 90,
+    CD: 400,
+    CM: 900,
+    I: 1,
+    V: 5,
+    X: 10,
+    L: 50,
+    C: 100,
+    D: 500,
+    M: 1000,
+  };
+  let total = 0;
+  Object.keys(lstSymbol).forEach((ele) => {
+    let count = [...s.matchAll(ele, "x")].length;
+    if (count > 0) {
+      total += lstSymbol[ele] * count;
+      s = s.replaceAll(ele, "-");
+    }
+  });
+  return total;
+};
