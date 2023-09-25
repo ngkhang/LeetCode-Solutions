@@ -2,11 +2,11 @@
 
 Problem 2520. Count the Digits That Divide a Number
 
-    - Given an integer num, return the number of digits in num that divide num.
+		- Given an integer num, return the number of digits in num that divide num.
 	
 	- An integer val divides nums if nums % val == 0.
-    
-    - Example:
+	  
+	- Example:
 
 		Input: num = 7
 		Output: 1
@@ -21,7 +21,7 @@ Problem 2520. Count the Digits That Divide a Number
 		Explanation: 1248 is divisible by all of its digits, hence the answer is 4.
 
 	- Constraints:
-      	1 <= num <= 10^9
+				1 <= num <= 10^9
 		num does not contain 0 as one of its digits.
 
 */

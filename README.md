@@ -5,7 +5,7 @@
 </div>
 
 - My collection of solutions to algorithmic problems in [LeetCode](https://leetcode.com/) is written in **JavaScript**.
-- Current, I sovled <span style="color: #ffa116; font-weight: bold; font-size: 26px">67</span> problem.
+- Current, I sovled <span style="color: #ffa116; font-weight: bold; font-size: 26px">76</span> problem.
 
 <details>
 <summary>Table of Contents</summary>
@@ -59,6 +59,7 @@
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                                                | [Show](Solutions/100-999/problem-509.js)    | `#Math` `#Dynamic Programming` `#Recursion` `#Memoization`                                |
 | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/)                                                                                      | [Show](Solutions/100-999/problem-709.js)    | `#String` `#Hash Table`                                                                   |
 | [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)                                                                      | [Show](Solutions/100-999/problem-728.js)    | `#Math`                                                                                   |
+| [796. Rotate String](https://leetcode.com/problems/rotate-string/)                                                                                      | [Show](Solutions/100-999/problem-796.js)    |                                                                                           |
 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                                                                  | [Show](Solutions/100-999/problem-804.js)    | `#Array` `#Hash Table` `#String`                                                          |
 | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)                                                             | Attempted                                   |                                                                                           |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                              | [Show](Solutions/100-999/problem-977.js)    | `#Array` `#Two Pointers` `#Sorting`                                                       |
@@ -89,11 +90,19 @@
 | [2496. Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)                                     | [Show](Solutions/2000-2499/problem-2496.js) | `#Array` `#String`                                                                        |
 | [2520. Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)                                     | [Show](Solutions/2500-3000/problem-2520.js) | `#Math`                                                                                   |
 | [2619. Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)                                                                       | [Show](Solutions/2500-3000/problem-2619.js) | ----                                                                                      |
+| [2620. Counter](https://leetcode.com/problems/counter/)                                                                                                 | [Show](Solutions/2500-3000/problem-2620.js) | ----                                                                                      |
+| [2621. Sleep](https://leetcode.com/problems/sleep/)                                                                                                     | [Show](Solutions/2500-3000/problem-2621.js) | ----                                                                                      |
 | [2626. Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)                                                         | [Show](Solutions/2500-3000/problem-2626.js) | ----                                                                                      |
 | [2634. Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)                                                           | [Show](Solutions/2500-3000/problem-2634.js) | ----                                                                                      |
 | [2635. Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/)                           | [Show](Solutions/2500-3000/problem-2635.js) | ----                                                                                      |
+| [2665. Counter II](https://leetcode.com/problems/counter-ii/)                                                                                           | [Show](Solutions/2500-3000/problem-2665.js) | ----                                                                                      |
+| [2666. Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/)                                                                 | [Show](Solutions/2500-3000/problem-2666.js) | ----                                                                                      |
+| [2667. Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/)                                                         | [Show](Solutions/2500-3000/problem-2667.js) | ----                                                                                      |
 | [2677. Chunk Array](https://leetcode.com/problems/chunk-array/)                                                                                         | [Show](Solutions/2500-3000/problem-2677.js) | ----                                                                                      |
 | [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)                                                             | [Show](Solutions/2500-3000/problem-2678.js) | `#Array` `#String`                                                                        |
+| [2703. Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/)                                             | [Show](Solutions/2500-3000/problem-2703.js) | ----                                                                                      |
+| [2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)                                                                           | [Show](Solutions/2500-3000/problem-2704.js) | ----                                                                                      |
+| [2723. Add Two Promises](https://leetcode.com/problems/add-two-promises/)                                                                               | [Show](Solutions/2500-3000/problem-2723.js) | ----                                                                                      |
 
 [⬆️ Scroll top](#leetcode-solutions)
 
