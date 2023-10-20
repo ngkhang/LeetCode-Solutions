@@ -4,7 +4,7 @@
   <img style="width: 100%" src="./leetcode-logo.png" alt="logo LeetCode"/>
 </div>
 
-- Currently, I solved <span style="color: #ffa116; font-weight: bold; font-size: 26px">87</span> problems, which are written in **JavaScript**.
+- Currently, I solved <span style="color: #ffa116; font-weight: bold; font-size: 26px">98</span> problems, which are written in **JavaScript**.
 - This is [my profie in LeetCode](https://leetcode.com/ngkhang/), I will upload solutions for some problems regularly.
 
 <details>
@@ -64,12 +64,16 @@
 | [389. Find the Difference](https://leetcode.com/problems/find-the-ifference/)                                                                           | [Show](Solutions/100-999/problem-389.js)    | ⭐          |
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                    | [Show](Solutions/100-999/problem-392.js)    | ⭐          |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                                              | [Show](Solutions/100-999/problem-412.js)    | ⭐          |
+| [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)                                                    | [Show](Solutions/100-999/problem-434.js)    | ⭐          |
+| [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                                                                    | [Show](Solutions/100-999/problem-482.js)    | ⭐          |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)                                                                    | [Show](Solutions/100-999/problem-496.js)    | ⭐          |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                                                | [Show](Solutions/100-999/problem-509.js)    | ⭐          |
+| [520. Detect Capital](https://leetcode.com/problems/detect-capital/)                                                                                    | [Show](Solutions/100-999/problem-520.js)    | ⭐          |
 | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/)                                                                                      | [Show](Solutions/100-999/problem-709.js)    | ⭐          |
 | [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)                                                                      | [Show](Solutions/100-999/problem-728.js)    | ⭐          |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/)                                                                                      | [Show](Solutions/100-999/problem-796.js)    | ⭐          |
 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                                                                  | [Show](Solutions/100-999/problem-804.js)    | ⭐          |
+| [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                                                                | [Show](Solutions/100-999/problem-844.js)    | ⭐          |
 | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)                                                             | Attempted                                   | ⭐          |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                              | [Show](Solutions/100-999/problem-977.js)    | ⭐          |
 | [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)                                                        | [Show](Solutions/100-999/problem-989.js)    | ⭐          |
@@ -94,6 +98,7 @@
 | [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)                 | [Show](Solutions/1500-1999/problem-1790.js) | ⭐          |
 | [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                                                                             | [Show](Solutions/1500-1999/problem-1816.js) | ⭐          |
 | [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)                                                 | [Show](Solutions/1500-1999/problem-1822.js) | ⭐          |
+| [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)             | [Show](Solutions/1500-1999/problem-1876.js) | ⭐          |
 | [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)                           | [Show](Solutions/2000-2499/problem-2114.js) | ⭐          |
 | [2119. A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/)                                               | [Show](Solutions/2000-2499/problem-2119.js) | ⭐          |
 | [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [Show](Solutions/2000-2499/problem-2160.js) | ⭐          |
@@ -118,6 +123,7 @@
 | [2703. Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/)                                             | [Show](Solutions/2500-3000/problem-2703.js) | ⭐          |
 | [2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)                                                                           | [Show](Solutions/2500-3000/problem-2704.js) | ⭐          |
 | [2723. Add Two Promises](https://leetcode.com/problems/add-two-promises/)                                                                               | [Show](Solutions/2500-3000/problem-2723.js) | ⭐          |
+| [2726. Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/)                                                 | [Show](Solutions/2500-3000/problem-2726.js) | ⭐          |
 | [2729. Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/)                                           | [Show](Solutions/2500-3000/problem-2729.js) | ⭐          |
 
 [⬆️ Scroll top](#leetcode-solutions)
