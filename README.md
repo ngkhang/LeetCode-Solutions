@@ -4,15 +4,15 @@
   <img style="width: 100%" src="./leetcode-logo.png" alt="logo LeetCode"/>
 </div>
 
-- Currently, I solved <span style="color: #ffa116; font-weight: bold; font-size: 26px">98</span> problems, which are written in **JavaScript**.
+- Currently, I solved <span style="color: #ffa116; font-weight: bold; font-size: 26px">104</span> problems, which are written in **JavaScript**.
 - This is [my profie in LeetCode](https://leetcode.com/ngkhang/), I will upload solutions for some problems regularly.
 
 <details>
-<summary>Table of Contents</summary>
+<summary><strong>Table of Contents:</strong></summary>
 
 - [LeetCode Solutions](#leetcode-solutions)
   - [All Topics](#all-topics)
-  - [Complexity](#complexity)
+  - [Resources](#resources)
 
 </details>
 
@@ -46,8 +46,10 @@
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                        | [Show](Solutions/100-999/problem-189.js)    | ⭐⭐         |
 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                                | [Show](Solutions/100-999/problem-191.js)    | ⭐          |
 | [202. Happy Number](https://leetcode.com/problems/happy-number/)                                                                                        | [Show](Solutions/100-999/problem-202.js)    | ⭐          |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                          | [Show](Solutions/100-999/problem-206.js)    | ⭐          |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                            | [Show](Solutions/100-999/problem-217.js)    | ⭐          |
 | [231. Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                        | [Show](Solutions/100-999/problem-231.js)    | ⭐          |
+| [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                                    | [Show](Solutions/100-999/problem-234.js)    | ⭐          |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                                      | [Show](Solutions/100-999/problem-242.js)    | ⭐          |
 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                                          | [Show](Solutions/100-999/problem-263.js)    | ⭐          |
 | [268. Missing Number](https://leetcode.com/problems/missing-number/)                                                                                    | [Show](Solutions/100-999/problem-268.js)    | ⭐          |
@@ -65,6 +67,7 @@
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                    | [Show](Solutions/100-999/problem-392.js)    | ⭐          |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                                              | [Show](Solutions/100-999/problem-412.js)    | ⭐          |
 | [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)                                                    | [Show](Solutions/100-999/problem-434.js)    | ⭐          |
+| [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)                                | [Show](Solutions/100-999/problem-448.js)    | ⭐          |
 | [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                                                                    | [Show](Solutions/100-999/problem-482.js)    | ⭐          |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)                                                                    | [Show](Solutions/100-999/problem-496.js)    | ⭐          |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                                                | [Show](Solutions/100-999/problem-509.js)    | ⭐          |
@@ -107,12 +110,15 @@
 | [2727. Is Object Empty](https://leetcode.com/problems/is-object-empty/)                                                                                 | [Show](Solutions/2000-2499/problem-2727.js) | ⭐          |
 | [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)                                                                               | [Show](Solutions/2000-2499/problem-2235.js) | ⭐          |
 | [2325. Decode the Message](https://leetcode.com/problems/decode-the-message/)                                                                           | [Show](Solutions/2000-2499/problem-2325.js) | ⭐          |
+| [2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)                       | [Show](Solutions/2000-2499/problem-2357.js) | ⭐          |
 | [2496. Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)                                     | [Show](Solutions/2000-2499/problem-2496.js) | ⭐          |
+| [2418. Sort the People](https://leetcode.com/problems/sort-the-people/)                                                                                 | [Show](Solutions/2000-2499/problem-2418.js) | ⭐          |
 | [2520. Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)                                     | [Show](Solutions/2500-3000/problem-2520.js) | ⭐          |
 | [2619. Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)                                                                       | [Show](Solutions/2500-3000/problem-2619.js) | ⭐          |
 | [2620. Counter](https://leetcode.com/problems/counter/)                                                                                                 | [Show](Solutions/2500-3000/problem-2620.js) | ⭐          |
 | [2621. Sleep](https://leetcode.com/problems/sleep/)                                                                                                     | [Show](Solutions/2500-3000/problem-2621.js) | ⭐          |
 | [2626. Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)                                                         | [Show](Solutions/2500-3000/problem-2626.js) | ⭐          |
+| [2629. Function Composition](https://leetcode.com/problems/function-composition/)                                                                       | [Show](Solutions/2500-3000/problem-2629.js) | ⭐          |
 | [2634. Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)                                                           | [Show](Solutions/2500-3000/problem-2634.js) | ⭐          |
 | [2635. Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/)                           | [Show](Solutions/2500-3000/problem-2635.js) | ⭐          |
 | [2665. Counter II](https://leetcode.com/problems/counter-ii/)                                                                                           | [Show](Solutions/2500-3000/problem-2665.js) | ⭐          |
@@ -130,21 +136,11 @@
 
 ---
 
-## Complexity
+## Resources
 
-| n                | Complexity             | Possible Algorithms & Techniques                                                                       |
-| ---------------- | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| 10<sup>18</sup>  | *O(1)*                 | Math                                                                                                   |
-| 10<sup>18</sup>  | *O(logn)*              | Binary & Ternary Search / Matrix Power / Cycle Tricks / Big Simulation Steps / Values Reranking / Math |
-| 10<sup>16</sup>  | *O(n<sup>1/2</sup>)*   | Math                                                                                                   |
-| 10<sup>8</sup>   | *O(n)*                 | Greedy / Ad-hoc / DP                                                                                   |
-| 4×10<sup>7</sup> | *O(nlogn)*             | Linear # Calls to Binary & Ternary Search / Pre-processing & Querying / Divide and Conquer             |
-| 10<sup>4</sup>   | *O(n<sup>2</sup>)*     | Ad-hoc / DP / Greedy / Divide and Conquer / Branch and Bound                                           |
-| 500              | *O(n<sup>3</sup>)*     | Ad-hoc / DP / Greedy / Divide and Conquer / Branch and Bound                                           |
-| 90               | *O(n<sup>4</sup>)*     | Ad-hoc / DP / Greedy / Divide and Conquer / Branch and Bound                                           |
-| 50               | *O(n<sup>5</sup>)*     | Branch and Bound                                                                                       |
-| 40               | *O(n×2<sup>n/2</sup>)* | Meet in the Middle                                                                                     |
-| 20               | *O(n×2<sup>n</sup>)*   | Backtracking / Generating 2<sup>n</sup> Subsets / Bitmask Technique                                    |
-| 11               | *O(n!)*                | Factorial / Permutation / Combination Algorithm                                                        |
+- Big-O Cheatsheet [🔗Link](https://www.bigocheatsheet.com/)
+- Visualizations
+  - Visualgo [🔗Link](https://visualgo.net/en)
+  - Data Structure Visualizations [🔗Link](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 [⬆️ Scroll top](#leetcode-solutions)

@@ -26,16 +26,7 @@ Problem 217. Contains Duplicate
  */
 
 var containsDuplicate = function (nums) {
-  let size = nums.length;
-  for (let i = 0; i < size; i++) {
-    let flag = 0;
-    let numKey = nums[i];
-    for (let j = 0; j < size; j++) {
-      if (numKey === nums[j]) {
-        flag++;
-      }
-    }
-    if (flag >= 2) return true;
-  }
-  return false;
+  const SIZE = nums.length;
+  const uniques = new Set(nums);
+  return [...uniques].length !== SIZE;
 };
