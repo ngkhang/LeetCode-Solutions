@@ -4,7 +4,7 @@
   <img style="width: 100%" src="./leetcode-logo.png" alt="logo LeetCode"/>
 </div>
 
-- Currently, I solved <span style="color: #ffa116; font-weight: bold; font-size: 26px">104</span> problems, which are written in **JavaScript**.
+- Currently, I solved <span style="color: #ffa116; font-weight: bold; font-size: 26px">109</span> problems, which are written in **JavaScript**.
 - This is [my profie in LeetCode](https://leetcode.com/ngkhang/), I will upload solutions for some problems regularly.
 
 <details>
@@ -40,6 +40,7 @@
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                  | [Show](Solutions/100-999/problem-121.js)    | ⭐          |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                | [Show](Solutions/100-999/problem-125.js)    | ⭐          |
 | [136. Single Number](https://leetcode.com/problems/single-number/)                                                                                      | [Show](Solutions/100-999/problem-136.js)    | ⭐          |
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                              | [Show](Solutions/100-999/problem-141.js)    | ⭐          |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                                              | [Show](Solutions/100-999/problem-151.js)    | ⭐⭐         |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/)                                                                                | [Show](Solutions/100-999/problem-169.js)    | ⭐          |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)                                                              | [Show](Solutions/100-999/problem-171.js)    | ⭐          |
@@ -48,7 +49,9 @@
 | [202. Happy Number](https://leetcode.com/problems/happy-number/)                                                                                        | [Show](Solutions/100-999/problem-202.js)    | ⭐          |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                          | [Show](Solutions/100-999/problem-206.js)    | ⭐          |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                            | [Show](Solutions/100-999/problem-217.js)    | ⭐          |
+| [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                                                        | [Show](Solutions/100-999/problem-225.js)    | ⭐          |
 | [231. Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                        | [Show](Solutions/100-999/problem-231.js)    | ⭐          |
+| [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                                                        | [Show](Solutions/100-999/problem-232.js)    | ⭐          |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                                    | [Show](Solutions/100-999/problem-234.js)    | ⭐          |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                                      | [Show](Solutions/100-999/problem-242.js)    | ⭐          |
 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                                          | [Show](Solutions/100-999/problem-263.js)    | ⭐          |
@@ -74,6 +77,7 @@
 | [520. Detect Capital](https://leetcode.com/problems/detect-capital/)                                                                                    | [Show](Solutions/100-999/problem-520.js)    | ⭐          |
 | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/)                                                                                      | [Show](Solutions/100-999/problem-709.js)    | ⭐          |
 | [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)                                                                      | [Show](Solutions/100-999/problem-728.js)    | ⭐          |
+| [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                                              | [Show](Solutions/100-999/problem-771.js)    | ⭐          |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/)                                                                                      | [Show](Solutions/100-999/problem-796.js)    | ⭐          |
 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                                                                  | [Show](Solutions/100-999/problem-804.js)    | ⭐          |
 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                                                                | [Show](Solutions/100-999/problem-844.js)    | ⭐          |
@@ -101,6 +105,7 @@
 | [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)                 | [Show](Solutions/1500-1999/problem-1790.js) | ⭐          |
 | [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                                                                             | [Show](Solutions/1500-1999/problem-1816.js) | ⭐          |
 | [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)                                                 | [Show](Solutions/1500-1999/problem-1822.js) | ⭐          |
+| [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)                                               | [Show](Solutions/1500-1999/problem-1832.js) | ⭐          |
 | [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)             | [Show](Solutions/1500-1999/problem-1876.js) | ⭐          |
 | [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)                           | [Show](Solutions/2000-2499/problem-2114.js) | ⭐          |
 | [2119. A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/)                                               | [Show](Solutions/2000-2499/problem-2119.js) | ⭐          |
