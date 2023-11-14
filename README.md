@@ -4,7 +4,7 @@
   <img style="width: 100%" src="./leetcode-logo.png" alt="logo LeetCode"/>
 </div>
 
-- Currently, I solved <span style="color: #ffa116; font-weight: bold; font-size: 26px">109</span> problems, which are written in **JavaScript**.
+- Currently, I solved <span style="color: #ffa116; font-weight: bold; font-size: 26px">113</span> problems, which are written in **JavaScript**.
 - This is [my profie in LeetCode](https://leetcode.com/ngkhang/), I will upload solutions for some problems regularly.
 
 <details>
@@ -36,6 +36,7 @@
 | [66. Plus One](https://leetcode.com/problems/plus-one/)                                                                                                 | [Show](Solutions/01-99/problem-66.js)       | ⭐          |
 | [67. Add Binary](https://leetcode.com/problems/add-binary/)                                                                                             | Attempted                                   | ⭐          |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                                     | [Show](Solutions/01-99/problem-69.js)       | ⭐          |
+| [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                             | [Show](Solutions/01-99/problem-83.js)       | ⭐          |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                             | [Show](Solutions/01-99/problem-88.js)       | ⭐          |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                  | [Show](Solutions/100-999/problem-121.js)    | ⭐          |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                | [Show](Solutions/100-999/problem-125.js)    | ⭐          |
@@ -47,12 +48,14 @@
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                        | [Show](Solutions/100-999/problem-189.js)    | ⭐⭐         |
 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                                | [Show](Solutions/100-999/problem-191.js)    | ⭐          |
 | [202. Happy Number](https://leetcode.com/problems/happy-number/)                                                                                        | [Show](Solutions/100-999/problem-202.js)    | ⭐          |
+| [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                                                          | [Show](Solutions/100-999/problem-203.js)    | ⭐          |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                          | [Show](Solutions/100-999/problem-206.js)    | ⭐          |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                            | [Show](Solutions/100-999/problem-217.js)    | ⭐          |
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                                                        | [Show](Solutions/100-999/problem-225.js)    | ⭐          |
 | [231. Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                        | [Show](Solutions/100-999/problem-231.js)    | ⭐          |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                                                        | [Show](Solutions/100-999/problem-232.js)    | ⭐          |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                                    | [Show](Solutions/100-999/problem-234.js)    | ⭐          |
+| [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                                                        | [Show](Solutions/100-999/problem-237.js)    | ⭐⭐         |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                                      | [Show](Solutions/100-999/problem-242.js)    | ⭐          |
 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                                          | [Show](Solutions/100-999/problem-263.js)    | ⭐          |
 | [268. Missing Number](https://leetcode.com/problems/missing-number/)                                                                                    | [Show](Solutions/100-999/problem-268.js)    | ⭐          |
@@ -81,6 +84,7 @@
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/)                                                                                      | [Show](Solutions/100-999/problem-796.js)    | ⭐          |
 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                                                                  | [Show](Solutions/100-999/problem-804.js)    | ⭐          |
 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                                                                | [Show](Solutions/100-999/problem-844.js)    | ⭐          |
+| [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                              | [Show](Solutions/100-999/problem-876.js)    | ⭐          |
 | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)                                                             | Attempted                                   | ⭐          |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                              | [Show](Solutions/100-999/problem-977.js)    | ⭐          |
 | [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)                                                        | [Show](Solutions/100-999/problem-989.js)    | ⭐          |
@@ -89,6 +93,7 @@
 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                       | [Show](Solutions/1000-1499/problem-1207.js) | ⭐          |
 | [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line)                                                    | Attempted                                   | ⭐          |
 | [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)       | [Show](Solutions/1000-1499/problem-1281.js) | ⭐          |
+| [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)             | [Show](Solutions/1000-1499/problem-1290.js) | ⭐          |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                                 | [Show](Solutions/1000-1499/problem-1480.js) | ⭐          |
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)                               | [Show](Solutions/1000-1499/problem-1431.js) | ⭐          |
 | [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Show](Solutions/1000-1499/problem-1491.js) | ⭐          |
