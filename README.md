@@ -4,7 +4,7 @@
   <img style="width: 100%" src="./leetcode-logo.png" alt="logo LeetCode"/>
 </div>
 
-- Currently, I solved <span style="color: #ffa116; font-weight: bold; font-size: 26px">120</span> problems, which are written in **JavaScript**.
+- Currently, I solved <span style="color: #ffa116; font-weight: bold; font-size: 26px">125</span> problems, which are written in **JavaScript**.
 - This is [my profie in LeetCode](https://leetcode.com/ngkhang/), I will upload solutions for some problems regularly.
 
 <details>
@@ -77,8 +77,10 @@
 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)                                | [Show](Solutions/100-999/problem-448.js)    | ⭐          |
 | [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                                                                    | [Show](Solutions/100-999/problem-482.js)    | ⭐          |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)                                                                    | [Show](Solutions/100-999/problem-496.js)    | ⭐          |
+| [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)                                                                                        | [Show](Solutions/100-999/problem-500.js)    | ⭐          |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                                                | [Show](Solutions/100-999/problem-509.js)    | ⭐          |
 | [520. Detect Capital](https://leetcode.com/problems/detect-capital/)                                                                                    | [Show](Solutions/100-999/problem-520.js)    | ⭐          |
+| [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                                      | [Show](Solutions/100-999/problem-557.js)    | ⭐          |
 | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/)                                                                                      | [Show](Solutions/100-999/problem-709.js)    | ⭐          |
 | [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)                                                                      | [Show](Solutions/100-999/problem-728.js)    | ⭐          |
 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                                              | [Show](Solutions/100-999/problem-771.js)    | ⭐          |
@@ -113,17 +115,18 @@
 | [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                                                                             | [Show](Solutions/1500-1999/problem-1816.js) | ⭐          |
 | [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)                                                 | [Show](Solutions/1500-1999/problem-1822.js) | ⭐          |
 | [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)                                               | [Show](Solutions/1500-1999/problem-1832.js) | ⭐          |
+| [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)                                                                       | [Show](Solutions/1500-1999/problem-1859.js) | ⭐          |
 | [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)             | [Show](Solutions/1500-1999/problem-1876.js) | ⭐          |
 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                                                   | [Show](Solutions/1500-1999/problem-1929.js) | ⭐          |
+| [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)                                       | [Show](Solutions/1500-1999/problem-1935.js) | ⭐          |
 | [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)         | [Show](Solutions/2000-2499/problem-2011.js) | ⭐          |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)                                 | [Show](Solutions/2000-2499/problem-2095.js) | ⭐⭐         |
 | [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)                           | [Show](Solutions/2000-2499/problem-2114.js) | ⭐          |
 | [2119. A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/)                                               | [Show](Solutions/2000-2499/problem-2119.js) | ⭐          |
 | [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [Show](Solutions/2000-2499/problem-2160.js) | ⭐          |
 | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)                                             | [Show](Solutions/2000-2499/problem-2215.js) | ⭐          |
-| [2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)                                                 | [Show](Solutions/2000-2499/problem-2248.js) | ⭐          |
-| [2727. Is Object Empty](https://leetcode.com/problems/is-object-empty/)                                                                                 | [Show](Solutions/2000-2499/problem-2727.js) | ⭐          |
 | [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)                                                                               | [Show](Solutions/2000-2499/problem-2235.js) | ⭐          |
+| [2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)                                                 | [Show](Solutions/2000-2499/problem-2248.js) | ⭐          |
 | [2325. Decode the Message](https://leetcode.com/problems/decode-the-message/)                                                                           | [Show](Solutions/2000-2499/problem-2325.js) | ⭐          |
 | [2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)                       | [Show](Solutions/2000-2499/problem-2357.js) | ⭐          |
 | [2496. Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)                                     | [Show](Solutions/2000-2499/problem-2496.js) | ⭐          |
@@ -145,7 +148,9 @@
 | [2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)                                                                           | [Show](Solutions/2500-3000/problem-2704.js) | ⭐          |
 | [2723. Add Two Promises](https://leetcode.com/problems/add-two-promises/)                                                                               | [Show](Solutions/2500-3000/problem-2723.js) | ⭐          |
 | [2726. Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/)                                                 | [Show](Solutions/2500-3000/problem-2726.js) | ⭐          |
+| [2727. Is Object Empty](https://leetcode.com/problems/is-object-empty/)                                                                                 | [Show](Solutions/2000-2499/problem-2727.js) | ⭐          |
 | [2729. Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/)                                           | [Show](Solutions/2500-3000/problem-2729.js) | ⭐          |
+| [2828. Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/)                               | [Show](Solutions/2000-2499/problem-2828.js) | ⭐          |
 
 [⬆️ Scroll top](#leetcode-solutions)
 
