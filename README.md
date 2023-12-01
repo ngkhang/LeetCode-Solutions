@@ -4,7 +4,7 @@
   <img style="width: 100%" src="./leetcode-logo.png" alt="logo LeetCode"/>
 </div>
 
-- Currently, I solved <span style="color: #ffa116; font-weight: bold; font-size: 26px">140</span> problems, which are written in **JavaScript**.
+- Currently, I solved <span style="color: #ffa116; font-weight: bold; font-size: 26px">143</span> problems, which are written in **JavaScript**.
 - This is [my profie in LeetCode](https://leetcode.com/ngkhang/), I will upload solutions for some problems regularly.
 
 <details>
@@ -23,6 +23,7 @@
 | Title                                                                                                                                                     | Solution                                    | Difficulty |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ---------- |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                      | [Show](Solutions/01-99/problem-01.js)       | ⭐          |
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                                      | [Show](Solutions/01-99/problem-02.js)       | ⭐⭐         |
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                                  | [Show](Solutions/01-99/problem-09.js)       | ⭐          |
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                                                   | [Show](Solutions/01-99/problem-13.js)       | ⭐          |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                                         | [Show](Solutions/01-99/problem-14.js)       | ⭐          |
@@ -43,6 +44,7 @@
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                  | [Show](Solutions/100-999/problem-125.js)    | ⭐          |
 | [136. Single Number](https://leetcode.com/problems/single-number/)                                                                                        | [Show](Solutions/100-999/problem-136.js)    | ⭐          |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                | [Show](Solutions/100-999/problem-141.js)    | ⭐          |
+| [143. Reorder List](https://leetcode.com/problems/reorder-list/)                                                                                          | [Show](Solutions/100-999/problem-143.js)    | ⭐⭐         |
 | [148. Sort List](https://leetcode.com/problems/sort-list/)                                                                                                | [Show](Solutions/100-999/problem-148.js)    | ⭐⭐         |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/)                                                                                  | [Show](Solutions/100-999/problem-169.js)    | ⭐          |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)                                                                | [Show](Solutions/100-999/problem-171.js)    | ⭐          |
@@ -63,6 +65,7 @@
 | [268. Missing Number](https://leetcode.com/problems/missing-number/)                                                                                      | [Show](Solutions/100-999/problem-268.js)    | ⭐          |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                                            | [Show](Solutions/100-999/problem-283.js)    | ⭐          |
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                                          | [Show](Solutions/100-999/problem-290.js)    | ⭐          |
+| [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                                                          | [Show](Solutions/100-999/problem-328.js)    | ⭐⭐         |
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                                        | [Show](Solutions/100-999/problem-338.js)    | ⭐          |
 | [342. Power of Four](https://leetcode.com/problems/power-of-four/)                                                                                        | [Show](Solutions/100-999/problem-342.js)    | ⭐          |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/)                                                                                      | [Show](Solutions/100-999/problem-344.js)    | ⭐          |
