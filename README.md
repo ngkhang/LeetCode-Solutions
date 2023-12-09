@@ -4,7 +4,13 @@
   <img style="width: 100%" src="./leetcode-logo.png" alt="logo LeetCode"/>
 </div>
 
-- Currently, I solved <span style="color: #ffa116; font-weight: bold; font-size: 26px">143</span> problems, which are written in **JavaScript**.
+- Currently, I solved <span style="color: #262626; font-weight: bold; font-size: 30px">151</span> problems, which are written in **JavaScript**.
+  <ul>
+    <li>Easy: <strong style="color: #00af9b; font-size: 20px">138</strong></li>
+    <li>Medium: <strong style="color: #ffb800; font-size: 20px">13</strong></li>
+    <li>Hard: <strong style="color: #ef4743; font-size: 20px"></strong></li>
+  </ul>
+
 - This is [my profie in LeetCode](https://leetcode.com/ngkhang/), I will upload solutions for some problems regularly.
 
 <details>
@@ -27,6 +33,7 @@
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                                  | [Show](Solutions/01-99/problem-09.js)       | ⭐          |
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                                                   | [Show](Solutions/01-99/problem-13.js)       | ⭐          |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                                         | [Show](Solutions/01-99/problem-14.js)       | ⭐          |
+| [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                                   | [Show](Solutions/01-99/problem-19.js)       | ⭐⭐         |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                                 | Attempted                                   | ⭐          |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                                       | [Show](Solutions/01-99/problem-21.js)       | ⭐          |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                             | [Show](Solutions/01-99/problem-26.js)       | ⭐          |
@@ -35,7 +42,7 @@
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                       | [Show](Solutions/01-99/problem-35.js)       | ⭐          |
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                                             | [Show](Solutions/01-99/problem-58.js)       | ⭐          |
 | [66. Plus One](https://leetcode.com/problems/plus-one/)                                                                                                   | [Show](Solutions/01-99/problem-66.js)       | ⭐          |
-| [67. Add Binary](https://leetcode.com/problems/add-binary/)                                                                                               | Attempted                                   | ⭐          |
+| [67. Add Binary](https://leetcode.com/problems/add-binary/)                                                                                               | [Show](Solutions/01-99/problem-67.js)       | ⭐          |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                                       | [Show](Solutions/01-99/problem-69.js)       | ⭐          |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                                             | [Show](Solutions/01-99/problem-75.js)       | ⭐⭐         |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                               | [Show](Solutions/01-99/problem-83.js)       | ⭐          |
@@ -46,6 +53,7 @@
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                | [Show](Solutions/100-999/problem-141.js)    | ⭐          |
 | [143. Reorder List](https://leetcode.com/problems/reorder-list/)                                                                                          | [Show](Solutions/100-999/problem-143.js)    | ⭐⭐         |
 | [148. Sort List](https://leetcode.com/problems/sort-list/)                                                                                                | [Show](Solutions/100-999/problem-148.js)    | ⭐⭐         |
+| [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                                                  | [Show](Solutions/100-999/problem-160.js)    | ⭐          |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/)                                                                                  | [Show](Solutions/100-999/problem-169.js)    | ⭐          |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)                                                                | [Show](Solutions/100-999/problem-171.js)    | ⭐          |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                          | [Show](Solutions/100-999/problem-189.js)    | ⭐⭐         |
@@ -102,6 +110,7 @@
 | [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line)                                                      | Attempted                                   | ⭐          |
 | [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)         | [Show](Solutions/1000-1499/problem-1281.js) | ⭐          |
 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)               | [Show](Solutions/1000-1499/problem-1290.js) | ⭐          |
+| [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)         | [Show](Solutions/1000-1499/problem-1365.js) | ⭐          |
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)                                 | [Show](Solutions/1000-1499/problem-1431.js) | ⭐          |
 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                                               | [Show](Solutions/1000-1499/problem-1470.js) | ⭐          |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                                   | [Show](Solutions/1000-1499/problem-1480.js) | ⭐          |
@@ -115,6 +124,7 @@
 | [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)                                                       | [Show](Solutions/1500-1999/problem-1669.js) | ⭐⭐         |
 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)                                                                   | [Show](Solutions/1500-1999/problem-1672.js) | ⭐          |
 | [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)                                                             | [Show](Solutions/1500-1999/problem-1678.js) | ⭐          |
+| [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)                                                                             | [Show](Solutions/1500-1999/problem-1720.js) | ⭐          |
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                                                               | [Show](Solutions/1500-1999/problem-1768.js) | ⭐          |
 | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)                                                           | [Show](Solutions/1500-1999/problem-1773)    | ⭐          |
 | [1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)     | [Show](Solutions/1500-1999/problem-1779.js) | ⭐          |
@@ -130,6 +140,7 @@
 | [1952. Three Divisors](https://leetcode.com/problems/three-divisors/)                                                                                     | [Show](Solutions/1500-1999/problem-1952.js) | ⭐          |
 | [1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)                                       | [Show](Solutions/1500-1999/problem-1979.js) | ⭐          |
 | [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)           | [Show](Solutions/2000-2499/problem-2011.js) | ⭐          |
+| [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)                                   | [Show](Solutions/2000-2499/problem-2089.js) | ⭐          |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)                                   | [Show](Solutions/2000-2499/problem-2095.js) | ⭐⭐         |
 | [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)                             | [Show](Solutions/2000-2499/problem-2114.js) | ⭐          |
 | [2119. A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/)                                                 | [Show](Solutions/2000-2499/problem-2119.js) | ⭐          |
@@ -165,10 +176,12 @@
 | [2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)                                                                             | [Show](Solutions/2500-3000/problem-2704.js) | ⭐          |
 | [2723. Add Two Promises](https://leetcode.com/problems/add-two-promises/)                                                                                 | [Show](Solutions/2500-3000/problem-2723.js) | ⭐          |
 | [2726. Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/)                                                   | [Show](Solutions/2500-3000/problem-2726.js) | ⭐          |
-| [2727. Is Object Empty](https://leetcode.com/problems/is-object-empty/)                                                                                   | [Show](Solutions/2000-2499/problem-2727.js) | ⭐          |
+| [2727. Is Object Empty](https://leetcode.com/problems/is-object-empty/)                                                                                   | [Show](Solutions/2500-3000/problem-2727.js) | ⭐          |
 | [2729. Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/)                                             | [Show](Solutions/2500-3000/problem-2729.js) | ⭐          |
 | [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/)                                     | [Show](Solutions/2500-3000/problem-2798.js) | ⭐          |
-| [2828. Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/)                                 | [Show](Solutions/2000-2499/problem-2828.js) | ⭐          |
+| [2807. Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)                     | [Show](Solutions/2500-3000/problem-2807.js) | ⭐⭐         |
+| [2828. Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/)                                 | [Show](Solutions/2500-3000/problem-2828.js) | ⭐          |
+| [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/)                                                   | [Show](Solutions/2500-3000/problem-2942.js) | ⭐          |
 
 [⬆️ Scroll top](#leetcode-solutions)
 
