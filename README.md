@@ -4,10 +4,10 @@
   <img style="width: 100%" src="./leetcode-logo.png" alt="logo LeetCode"/>
 </div>
 
-- Currently, I solved <span style="color: #262626; font-weight: bold; font-size: 30px">151</span> problems, which are written in **JavaScript**.
+- Currently, I solved <span style="color: #262626; font-weight: bold; font-size: 30px">158</span> problems, which are written in **JavaScript**.
   <ul>
-    <li>Easy: <strong style="color: #00af9b; font-size: 20px">138</strong></li>
-    <li>Medium: <strong style="color: #ffb800; font-size: 20px">13</strong></li>
+    <li>Easy: <strong style="color: #00af9b; font-size: 20px">144</strong></li>
+    <li>Medium: <strong style="color: #ffb800; font-size: 20px">14</strong></li>
     <li>Hard: <strong style="color: #ef4743; font-size: 20px"></strong></li>
   </ul>
 
@@ -109,9 +109,12 @@
 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                         | [Show](Solutions/1000-1499/problem-1207.js) | ⭐          |
 | [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line)                                                      | Attempted                                   | ⭐          |
 | [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)         | [Show](Solutions/1000-1499/problem-1281.js) | ⭐          |
+| [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)                    | [Show](Solutions/1000-1499/problem-1287.js) | ⭐          |
 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)               | [Show](Solutions/1000-1499/problem-1290.js) | ⭐          |
 | [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)         | [Show](Solutions/1000-1499/problem-1365.js) | ⭐          |
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)                                 | [Show](Solutions/1000-1499/problem-1431.js) | ⭐          |
+| [1436. Destination City](https://leetcode.com/problems/destination-city/)                                                                                 | [Show](Solutions/1000-1499/problem-1436.js) | ⭐          |
+| [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)                           | [Show](Solutions/1000-1499/problem-1464.js) | ⭐          |
 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                                               | [Show](Solutions/1000-1499/problem-1470.js) | ⭐          |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                                   | [Show](Solutions/1000-1499/problem-1480.js) | ⭐          |
 | [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)   | [Show](Solutions/1000-1499/problem-1491.js) | ⭐          |
@@ -119,6 +122,7 @@
 | [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)                                     | [Show](Solutions/1500-1999/problem-1523.js) | ⭐          |
 | [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)                                                                                     | [Show](Solutions/1500-1999/problem-1528.js) | ⭐          |
 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)                                                                           | [Show](Solutions/1500-1999/problem-1572.js) | ⭐          |
+| [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)                                         | [Show](Solutions/1500-1999/problem-1582.js) | ⭐          |
 | [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)                                                   | [Show](Solutions/1500-1999/problem-1588.js) | ⭐          |
 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                               | [Show](Solutions/1500-1999/problem-1662.js) | ⭐          |
 | [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)                                                       | [Show](Solutions/1500-1999/problem-1669.js) | ⭐⭐         |
@@ -134,6 +138,7 @@
 | [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)                                                 | [Show](Solutions/1500-1999/problem-1832.js) | ⭐          |
 | [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)                                                                         | [Show](Solutions/1500-1999/problem-1859.js) | ⭐          |
 | [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)               | [Show](Solutions/1500-1999/problem-1876.js) | ⭐          |
+| [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)                                                         | [Show](Solutions/1500-1999/problem-1903.js) | ⭐          |
 | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)                                                         | [Show](Solutions/1500-1999/problem-1920.js) | ⭐          |
 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                                                     | [Show](Solutions/1500-1999/problem-1929.js) | ⭐          |
 | [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)                                         | [Show](Solutions/1500-1999/problem-1935.js) | ⭐          |
@@ -157,9 +162,11 @@
 | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/)                                                                                   | [Show](Solutions/2000-2499/problem-2418.js) | ⭐          |
 | [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)                                                                   | [Show](Solutions/2000-2499/problem-2469.js) | ⭐          |
 | [2481. Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)                                                   | [Show](Solutions/2000-2499/problem-2481.js) | ⭐          |
+| [2482. Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)           | [Show](Solutions/2000-2499/problem-2482.js) | ⭐⭐         |
 | [2496. Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)                                       | [Show](Solutions/2000-2499/problem-2496.js) | ⭐          |
 | [2520. Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)                                       | [Show](Solutions/2500-3000/problem-2520.js) | ⭐          |
 | [2535. Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [Show](Solutions/2500-3000/problem-2535.js) | ⭐          |
+| [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)                                                                         | [Show](Solutions/2500-3000/problem-2540.js) | ⭐          |
 | [2619. Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)                                                                         | [Show](Solutions/2500-3000/problem-2619.js) | ⭐          |
 | [2620. Counter](https://leetcode.com/problems/counter/)                                                                                                   | [Show](Solutions/2500-3000/problem-2620.js) | ⭐          |
 | [2621. Sleep](https://leetcode.com/problems/sleep/)                                                                                                       | [Show](Solutions/2500-3000/problem-2621.js) | ⭐          |
