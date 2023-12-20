@@ -4,10 +4,10 @@
   <img style="width: 100%" src="./leetcode-logo.png" alt="logo LeetCode"/>
 </div>
 
-- Currently, I solved <span style="color: #262626; font-weight: bold; font-size: 30px">158</span> problems, which are written in **JavaScript**.
+- Currently, I solved <span style="color: #262626; font-weight: bold; font-size: 30px">163</span> problems, which are written in **JavaScript**.
   <ul>
-    <li>Easy: <strong style="color: #00af9b; font-size: 20px">144</strong></li>
-    <li>Medium: <strong style="color: #ffb800; font-size: 20px">14</strong></li>
+    <li>Easy: <strong style="color: #00af9b; font-size: 20px">148</strong></li>
+    <li>Medium: <strong style="color: #ffb800; font-size: 20px">15</strong></li>
     <li>Hard: <strong style="color: #ef4743; font-size: 20px"></strong></li>
   </ul>
 
@@ -30,6 +30,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ---------- |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                      | [Show](Solutions/01-99/problem-01.js)       | ⭐          |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                                      | [Show](Solutions/01-99/problem-02.js)       | ⭐⭐         |
+| [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                                      | [Show](Solutions/01-99/problem-07.js)       | ⭐⭐         |
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                                  | [Show](Solutions/01-99/problem-09.js)       | ⭐          |
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                                                   | [Show](Solutions/01-99/problem-13.js)       | ⭐          |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                                         | [Show](Solutions/01-99/problem-14.js)       | ⭐          |
@@ -63,6 +64,7 @@
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                            | [Show](Solutions/100-999/problem-206.js)    | ⭐          |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                              | [Show](Solutions/100-999/problem-217.js)    | ⭐          |
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                                                          | [Show](Solutions/100-999/problem-225.js)    | ⭐          |
+| [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)                                                                                      | [Show](Solutions/100-999/problem-228.js)    | ⭐          |
 | [231. Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                          | [Show](Solutions/100-999/problem-231.js)    | ⭐          |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                                                          | [Show](Solutions/100-999/problem-232.js)    | ⭐          |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                                      | [Show](Solutions/100-999/problem-234.js)    | ⭐          |
@@ -128,6 +130,7 @@
 | [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)                                                       | [Show](Solutions/1500-1999/problem-1669.js) | ⭐⭐         |
 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)                                                                   | [Show](Solutions/1500-1999/problem-1672.js) | ⭐          |
 | [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)                                                             | [Show](Solutions/1500-1999/problem-1678.js) | ⭐          |
+| [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)                                                 | [Show](Solutions/1500-1999/problem-1716.js) | ⭐          |
 | [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)                                                                             | [Show](Solutions/1500-1999/problem-1720.js) | ⭐          |
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                                                               | [Show](Solutions/1500-1999/problem-1768.js) | ⭐          |
 | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)                                                           | [Show](Solutions/1500-1999/problem-1773)    | ⭐          |
@@ -139,6 +142,7 @@
 | [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)                                                                         | [Show](Solutions/1500-1999/problem-1859.js) | ⭐          |
 | [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)               | [Show](Solutions/1500-1999/problem-1876.js) | ⭐          |
 | [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)                                                         | [Show](Solutions/1500-1999/problem-1903.js) | ⭐          |
+| [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)                         | [Show](Solutions/1500-1999/problem-1913.js) | ⭐          |
 | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)                                                         | [Show](Solutions/1500-1999/problem-1920.js) | ⭐          |
 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                                                     | [Show](Solutions/1500-1999/problem-1929.js) | ⭐          |
 | [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)                                         | [Show](Solutions/1500-1999/problem-1935.js) | ⭐          |
@@ -181,6 +185,7 @@
 | [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)                                                               | [Show](Solutions/2500-3000/problem-2678.js) | ⭐          |
 | [2703. Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/)                                               | [Show](Solutions/2500-3000/problem-2703.js) | ⭐          |
 | [2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)                                                                             | [Show](Solutions/2500-3000/problem-2704.js) | ⭐          |
+| [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)                                                                             | [Show](Solutions/2500-3000/problem-2706.js) | ⭐          |
 | [2723. Add Two Promises](https://leetcode.com/problems/add-two-promises/)                                                                                 | [Show](Solutions/2500-3000/problem-2723.js) | ⭐          |
 | [2726. Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/)                                                   | [Show](Solutions/2500-3000/problem-2726.js) | ⭐          |
 | [2727. Is Object Empty](https://leetcode.com/problems/is-object-empty/)                                                                                   | [Show](Solutions/2500-3000/problem-2727.js) | ⭐          |
