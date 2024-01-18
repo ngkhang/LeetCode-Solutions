@@ -4,10 +4,10 @@
   <img style="width: 100%" src="./leetcode-logo.png" alt="logo LeetCode"/>
 </div>
 
-- Currently, I solved <span style="color: #262626; font-weight: bold; font-size: 30px">170</span> problems, which are written in **JavaScript**.
+- Currently, I solved <span style="color: #262626; font-weight: bold; font-size: 30px">174</span> problems, which are written in **JavaScript**.
   <ul>
-    <li>Easy: <strong style="color: #00af9b; font-size: 20px">153</strong></li>
-    <li>Medium: <strong style="color: #ffb800; font-size: 20px">17</strong></li>
+    <li>Easy: <strong style="color: #00af9b; font-size: 20px">156</strong></li>
+    <li>Medium: <strong style="color: #ffb800; font-size: 20px">18</strong></li>
     <li>Hard: <strong style="color: #ef4743; font-size: 20px"></strong></li>
   </ul>
 
@@ -45,6 +45,7 @@
 | [66. Plus One](https://leetcode.com/problems/plus-one/)                                                                                                           | [Show](Solutions/01-99/problem-66.js)       | ⭐          |
 | [67. Add Binary](https://leetcode.com/problems/add-binary/)                                                                                                       | [Show](Solutions/01-99/problem-67.js)       | ⭐          |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                                               | [Show](Solutions/01-99/problem-69.js)       | ⭐          |
+| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                             | [Show](Solutions/01-99/problem-70.js)       | ⭐          |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                                                     | [Show](Solutions/01-99/problem-75.js)       | ⭐⭐         |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                                       | [Show](Solutions/01-99/problem-83.js)       | ⭐          |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                                       | [Show](Solutions/01-99/problem-88.js)       | ⭐          |
@@ -128,11 +129,13 @@
 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)                                                                                   | [Show](Solutions/1500-1999/problem-1572.js) | ⭐          |
 | [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)                                                 | [Show](Solutions/1500-1999/problem-1582.js) | ⭐          |
 | [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)                                                           | [Show](Solutions/1500-1999/problem-1588.js) | ⭐          |
+| [1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)                             | [Show](Solutions/1500-1999/problem-1624.js) | ⭐          |
 | [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Show](Solutions/1500-1999/problem-1637.js) | ⭐⭐         |
 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                                       | [Show](Solutions/1500-1999/problem-1662.js) | ⭐          |
 | [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)                                                               | [Show](Solutions/1500-1999/problem-1669.js) | ⭐⭐         |
 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)                                                                           | [Show](Solutions/1500-1999/problem-1672.js) | ⭐          |
 | [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)                                                                     | [Show](Solutions/1500-1999/problem-1678.js) | ⭐          |
+| [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)                                                 | [Show](Solutions/1500-1999/problem-1704.js) | ⭐          |
 | [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)                                                         | [Show](Solutions/1500-1999/problem-1716.js) | ⭐          |
 | [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)                                                                                     | [Show](Solutions/1500-1999/problem-1720.js) | ⭐          |
 | [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)                       | [Show](Solutions/1500-1999/problem-1758.js) | ⭐          |
@@ -175,6 +178,7 @@
 | [2520. Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)                                               | [Show](Solutions/2500-3000/problem-2520.js) | ⭐          |
 | [2535. Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/)         | [Show](Solutions/2500-3000/problem-2535.js) | ⭐          |
 | [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)                                                                                 | [Show](Solutions/2500-3000/problem-2540.js) | ⭐          |
+| [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)                         | [Show](Solutions/2500-3000/problem-2610.js) | ⭐⭐         |
 | [2619. Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)                                                                                 | [Show](Solutions/2500-3000/problem-2619.js) | ⭐          |
 | [2620. Counter](https://leetcode.com/problems/counter/)                                                                                                           | [Show](Solutions/2500-3000/problem-2620.js) | ⭐          |
 | [2621. Sleep](https://leetcode.com/problems/sleep/)                                                                                                               | [Show](Solutions/2500-3000/problem-2621.js) | ⭐          |
